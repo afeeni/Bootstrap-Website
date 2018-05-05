@@ -21,6 +21,17 @@
     padding-right: 100px;
 }
 
+
+.body{
+    padding-left: 150px;
+    padding-right: 100px;
+}
+
+body{
+    padding-left: 150px;
+    padding-right: 100px;
+}
+
 h4 {
     font-family: "Helvetica Narrow","Arial Narrow",Tahoma,Arial,Helvetica,sans-serif;
     font-weight: 100;
